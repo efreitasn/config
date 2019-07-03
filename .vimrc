@@ -13,6 +13,7 @@ Plug 'fatih/vim-go'
 Plug 'SirVer/ultisnips'
 Plug 'tomasiser/vim-code-dark'
 Plug 'tpope/vim-fugitive'
+Plug 'tpope/vim-rhubarb'
 
 call plug#end()
 
