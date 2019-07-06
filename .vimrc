@@ -32,3 +32,5 @@ let g:airline_theme = 'codedark'
 let g:go_updatetime = 500
 let g:go_auto_sameids = 1 
 let g:go_fmt_command = "goimports"
+let g:go_metalinter_autosave = 1
+
