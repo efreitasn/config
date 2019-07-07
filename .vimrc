@@ -14,6 +14,7 @@ Plug 'SirVer/ultisnips'
 Plug 'tomasiser/vim-code-dark'
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-rhubarb'
+Plug 'leafgarland/typescript-vim'
 
 call plug#end()
 
