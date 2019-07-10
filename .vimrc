@@ -17,6 +17,8 @@ Plug 'tpope/vim-rhubarb'
 Plug 'leafgarland/typescript-vim'
 Plug 'quramy/tsuquyomi'
 Plug 'editorconfig/editorconfig-vim'
+Plug 'w0rp/ale'
+Plug 'mattn/emmet-vim'
 
 call plug#end()
 
@@ -40,3 +42,4 @@ let g:go_metalinter_autosave = 1
 " Completion
 filetype plugin on
 set omnifunc=syntaxcomplete#Complete
+let g:ale_echo_cursor = 0
