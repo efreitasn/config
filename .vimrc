@@ -15,6 +15,7 @@ Plug 'tomasiser/vim-code-dark'
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-rhubarb'
 Plug 'leafgarland/typescript-vim'
+Plug 'editorconfig/editorconfig-vim'
 
 call plug#end()
 
