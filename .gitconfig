@@ -4,3 +4,4 @@
 	st = status
 	cdate-adate = rebase HEAD~1 --committer-date-is-author-date
 	p = push
+	l = log
