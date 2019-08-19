@@ -6,3 +6,4 @@
 	p = push
 	l = log
 	c = commit
+	d = diff
