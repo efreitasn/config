@@ -7,3 +7,4 @@
 	l = log
 	c = commit
 	d = diff
+	a = add
