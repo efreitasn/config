@@ -7,3 +7,5 @@ ZSH_THEME="robbyrussell"
 # Aliases
 alias lsd="ls -d */ -1"
 alias xo="xdg-open"
+
+export EDITOR=/usr/bin/vim
