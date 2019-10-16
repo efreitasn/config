@@ -1,3 +1,6 @@
+# Setting
+setopt ksh_glob
+
 # Plugins
 plugins=(git)
 
