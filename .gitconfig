@@ -5,6 +5,7 @@
 	cdate-adate = rebase HEAD~1 --committer-date-is-author-date
 	p = push
 	l = log
+	lf = log --format=fuller
 	c = commit
 	d = diff
 	a = add
