@@ -6,6 +6,7 @@
 	p = push
 	l = log
 	lf = log --format=fuller
+	l1 = log --oneline
 	c = commit
 	d = diff
 	a = add
