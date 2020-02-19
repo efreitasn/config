@@ -10,3 +10,6 @@
 	c = commit
 	d = diff
 	a = add
+	f = fetch
+	lo = log origin/master
+	rom = reset --hard origin/master
