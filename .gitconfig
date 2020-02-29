@@ -14,4 +14,4 @@
 	lo = log origin/master
 	rom = reset --hard origin/master
 	s = stash
-	r = reset
+	r = rebase
