@@ -13,5 +13,5 @@
 	f = fetch
 	lo = log origin/master
 	rom = reset --hard origin/master
-	s = stash
+	sh = stash
 	r = rebase
