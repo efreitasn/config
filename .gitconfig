@@ -1,9 +1,12 @@
 [core]
 	editor = vim
+[rebase]
+	autoSquash = true
 [alias]
 	st = status
 	cdate-adate = rebase HEAD~1 --committer-date-is-author-date
 	p = push
+	pf = push --force
 	l = log
 	lf = log --format=fuller
 	l1 = log --oneline
