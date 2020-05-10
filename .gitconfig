@@ -2,6 +2,8 @@
 	editor = vim
 [rebase]
 	autoSquash = true
+[push]
+	default = upstream
 [alias]
 	st = status
 	cdate-adate = rebase HEAD~1 --committer-date-is-author-date
