@@ -4,6 +4,8 @@
 	autoSquash = true
 [push]
 	default = upstream
+[merge]
+	conflictstyle = diff3
 [alias]
 	st = status
 	p = push
