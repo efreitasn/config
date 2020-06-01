@@ -21,5 +21,6 @@
 	rom = reset --hard origin/master
 	sh = stash
 	r = rebase
+	mo = merge origin/master
 [status]
 	submodulesummary = 1
