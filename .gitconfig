@@ -22,5 +22,6 @@
 	sh = stash
 	r = rebase
 	mo = merge origin/master
+	rf = reflog
 [status]
 	submodulesummary = 1
