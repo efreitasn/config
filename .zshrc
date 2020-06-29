@@ -13,5 +13,6 @@ alias lsd="ls -d */ -1"
 alias xo="xdg-open"
 alias l1="ls -1"
 alias lsca="\ls --color=always"
+alias rmf="rm -f"
 
 export EDITOR=/usr/bin/vim
