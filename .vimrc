@@ -19,6 +19,7 @@ Plug 'quramy/tsuquyomi'
 Plug 'editorconfig/editorconfig-vim'
 Plug 'w0rp/ale'
 Plug 'mattn/emmet-vim'
+Plug 'terryma/vim-multiple-cursors'
 
 call plug#end()
 
