@@ -14,5 +14,6 @@ alias xo="xdg-open"
 alias l1="ls -1"
 alias lsca="\ls --color=always"
 alias rmf="rm -f"
+alias hd="hexdump -C"
 
 export EDITOR=/usr/bin/vim
