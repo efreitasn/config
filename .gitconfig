@@ -24,5 +24,6 @@
 	mo = merge origin/master
 	rf = reflog
 	b = branch
+	ba = branch -a
 [status]
 	submodulesummary = 1
