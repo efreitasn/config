@@ -23,5 +23,6 @@
 	r = rebase
 	mo = merge origin/master
 	rf = reflog
+	b = branch
 [status]
 	submodulesummary = 1
