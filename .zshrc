@@ -16,5 +16,6 @@ alias lsca="\ls --color=always"
 alias rmf="rm -f"
 alias hd="hexdump -C"
 alias wcl="wc -l"
+alias iprl="ip r l"
 
 export EDITOR=/usr/bin/vim
