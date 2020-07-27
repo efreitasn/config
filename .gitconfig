@@ -25,5 +25,6 @@
 	rf = reflog
 	b = branch
 	ba = branch -a
+	cf = config
 [status]
 	submodulesummary = 1
