@@ -26,5 +26,6 @@
 	b = branch
 	ba = branch -a
 	cf = config
+	rt = reset
 [status]
 	submodulesummary = 1
