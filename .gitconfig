@@ -27,5 +27,6 @@
 	ba = branch -a
 	cf = config
 	rt = reset
+	rc1 = rebase HEAD~ --committer-date-is-author-date
 [status]
 	submodulesummary = 1
