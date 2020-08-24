@@ -30,5 +30,6 @@
 	rt = reset
 	rc1 = rebase HEAD~ --committer-date-is-author-date
 	ck = checkout
+	rom = rebase origin/master
 [status]
 	submodulesummary = 1
