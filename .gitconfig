@@ -19,7 +19,7 @@
 	a = add
 	f = fetch
 	lo = log origin/master
-	rom = reset --hard origin/master
+	rtom = reset --hard origin/master
 	sh = stash
 	r = rebase
 	mo = merge origin/master
