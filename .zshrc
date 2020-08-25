@@ -17,5 +17,6 @@ alias rmf="rm -f"
 alias hd="hexdump -C"
 alias wcl="wc -l"
 alias iprl="ip r l"
+alias c.="code ."
 
 export EDITOR=/usr/bin/vim
