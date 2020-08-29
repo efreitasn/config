@@ -28,6 +28,7 @@
 	ba = branch -a
 	cf = config
 	rt = reset
+	rc = rebase --committer-date-is-author-date
 	rc1 = rebase HEAD~ --committer-date-is-author-date
 	ck = checkout
 	rom = rebase origin/master
