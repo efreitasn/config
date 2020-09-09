@@ -28,6 +28,7 @@
 	ba = branch -a
 	cf = config
 	rt = reset
+	rth = reset --hard
 	rc = rebase --committer-date-is-author-date
 	ri = rebase -i
 	rc1 = rebase HEAD~ --committer-date-is-author-date
