@@ -18,5 +18,6 @@ alias hd="hexdump -C"
 alias wcl="wc -l"
 alias iprl="ip r l"
 alias c.="code ."
+alias ga.="git add ."
 
 export EDITOR=/usr/bin/vim
