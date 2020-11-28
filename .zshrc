@@ -19,5 +19,6 @@ alias wcl="wc -l"
 alias iprl="ip r l"
 alias c.="code ."
 alias ga.="git add ."
+alias got.="go test ."
 
 export EDITOR=/usr/bin/vim
