@@ -4,6 +4,7 @@
 	autoSquash = true
 [push]
 	default = upstream
+	recurseSubmodules = check
 [merge]
 	conflictstyle = diff3
 [alias]
