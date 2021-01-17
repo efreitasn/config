@@ -3,7 +3,7 @@ setopt ksh_glob
 setopt extended_glob
 
 # Plugins
-plugins=(git)
+plugins=(git docker docker-compose)
 
 # Theme
 ZSH_THEME="robbyrussell"
