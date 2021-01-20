@@ -41,5 +41,9 @@
 	smd = !git diff && git submodule foreach 'git diff'
 	smu = submodule update
 	smf = submodule foreach
+	sw = show
+	swh = show HEAD
+	swt = show --stat
+	swth = show --stat HEAD
 [status]
 	submodulesummary = 1
