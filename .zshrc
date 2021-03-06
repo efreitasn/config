@@ -1,6 +1,7 @@
 # Setting
 setopt ksh_glob
 setopt extended_glob
+setopt HIST_IGNORE_SPACE
 
 # Plugins
 plugins=(git docker docker-compose)
