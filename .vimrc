@@ -29,6 +29,10 @@ set encoding=utf-8
 set tabstop=4
 set autowrite
 set autoread
+set relativenumber
+
+autocmd InsertEnter * :set norelativenumber
+autocmd InsertLeave * :set relativenumber
 
 " Colors
 colorscheme codedark
