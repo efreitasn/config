@@ -22,5 +22,6 @@ alias iprl="ip r l"
 alias c.="code ."
 alias ga.="git add ."
 alias got.="go test ."
+alias gdc="g dc"
 
 export EDITOR=/usr/bin/vim
