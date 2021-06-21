@@ -23,5 +23,6 @@ alias c.="code ."
 alias ga.="git add ."
 alias got.="go test ."
 alias gdc="g dc"
+alias glf="g lf"
 
 export EDITOR=/usr/bin/vim
