@@ -38,6 +38,7 @@
 	rc1 = rebase HEAD~ --committer-date-is-author-date
 	ck = checkout
 	rom = rebase origin/master
+	romi = rebase -i origin/master
 	sm = submodule
 	smd = !git diff && git submodule foreach 'git diff'
 	smu = submodule update
