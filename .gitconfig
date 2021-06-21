@@ -33,6 +33,7 @@
 	rt1 = reset HEAD~
 	rth = reset --hard
 	rc = rebase --committer-date-is-author-date
+	rcom = rebase --committer-date-is-author-date origin/master
 	ri = rebase -i
 	rc1 = rebase HEAD~ --committer-date-is-author-date
 	ck = checkout
