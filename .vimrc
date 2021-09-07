@@ -11,7 +11,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'bling/vim-airline'
 Plug 'fatih/vim-go'
 Plug 'SirVer/ultisnips'
-Plug 'tomasiser/vim-code-dark'
+Plug 'itchyny/landscape.vim'
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-rhubarb'
 Plug 'leafgarland/typescript-vim'
@@ -35,8 +35,7 @@ autocmd InsertEnter * :set norelativenumber
 autocmd InsertLeave * :set relativenumber
 
 " Colors
-colorscheme codedark
-let g:airline_theme = 'codedark'
+colorscheme landscape
 
 " Go
 let g:go_updatetime = 500
