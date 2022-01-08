@@ -25,5 +25,7 @@ alias got="go test"
 alias got.="go test ."
 alias gdc="g dc"
 alias glf="g lf"
+alias fzf="fzf --bind='f2:execute(code {}),ctrl-c:execute(echo {} | xsel -ib)'"
+alias fzfbat="fzf --preview 'bat --color=always {}'"
 
 export EDITOR=/usr/bin/vim
