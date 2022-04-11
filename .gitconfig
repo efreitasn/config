@@ -17,6 +17,7 @@
 	c = commit
 	d = diff
 	dc = diff --cached
+	dcst = diff --cached --stat
 	dch = diff --cached HEAD~
 	a = add
 	f = fetch
