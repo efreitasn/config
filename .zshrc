@@ -30,3 +30,6 @@ alias fzfbat="fzf --preview 'bat --color=always {}'"
 alias gl1cp="g log --format=\"format:%B\" HEAD~..HEAD | xsel -ib"
 
 export EDITOR=/usr/bin/vim
+
+# Go
+export GOTOOLCHAIN=local
