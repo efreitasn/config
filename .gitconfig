@@ -50,3 +50,5 @@
 	swth = show --stat HEAD
 [status]
 	submodulesummary = 1
+[log]
+	date = iso
